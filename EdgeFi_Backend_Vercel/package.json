@@ -1,0 +1,14 @@
+{
+  "name": "edgefi-backend-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "vercel-build": "echo skip build"
+  },
+  "dependencies": {
+    "mysql2": "^3.5.2",
+    "jsonwebtoken": "^9.0.2",
+    "axios": "^1.5.0",
+    "dotenv": "^16.3.1"
+  }
+}
